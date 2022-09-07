@@ -19,7 +19,7 @@ metadata:
   name: httpbin
 spec:
   hosts:
-  - "*"
+  - "httpbin.example.com"
   gateways:
   - httpbin-gateway
   http:
